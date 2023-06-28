@@ -1,11 +1,11 @@
-# Dash Default Template: SpaceX-Launch-Records-Dashboard-App
+# Dashboard for SpaceX launches Records
 
-Created on 2023-06-27 17:17:12.940934
+I used Poltly and dash from python to build my app
 
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your SpaceX-Launch-Records-Dashboard-App app.
+You can check my app here:
+https://yuka-chen-spacex-launch-records-dashboard.onrender.com/
 
-See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
 
-## Running the App
+I used free Render to publish my app. Here is the reference
+https://medium.com/@ahossack07/create-and-deploy-plotly-dash-apps-to-the-internet-for-free-49ebca9633da
 
-Run `src/app.py` and navigate to http://127.0.0.1:8050/ in your browser.
